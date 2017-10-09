@@ -1,4 +1,5 @@
 ![Junction](https://github.com/theleagueof/junction/raw/master/images/junction-1.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fjunction.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fjunction?ref=badge_shield)
 
 Junction
 ========
@@ -8,3 +9,7 @@ Junction is a a humanist sans-serif, and the first open-source type project star
 
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fjunction.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fjunction?ref=badge_large)
